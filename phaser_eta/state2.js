@@ -1,5 +1,5 @@
 
-var barrel, bullets, velocity = 1000, nextFire = 0, fireRate = 200, enemy, bullet, enemyGroup;
+var barrel, bullets, velocity = 1000, nextFire = 0, fireRate = 200, enemy, bullet, enemyGroup, doge1;
 demo.state2 = function(){};
 
 demo.state2.prototype = {
